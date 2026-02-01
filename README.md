@@ -2,7 +2,7 @@
 
 **Blazing-fast clinical documentation powered by your GPU.**
 
-Record therapy sessions, transcribe in seconds, and generate polished clinical notes (DAP, SOAP, BIRP) — all running locally on your machine. No cloud. No subscriptions. No data ever leaves your computer.
+Record therapy sessions, transcribe in seconds, and generate polished clinical notes (DAP, SOAP, BIRP) — all running locally on your machine. No cloud uploads. No per-minute fees. No data ever leaves your computer.
 
 <p align="center">
   <img src="screenshots/01_dashboard.png" alt="Therapize Dashboard" width="800">
@@ -159,9 +159,10 @@ Print-ready PDF export with professional formatting.
 - HIPAA-friendly local processing
 
 ### Save Time & Money
-- No monthly API fees or per-minute transcription charges
+- **$49.99/month** — less than 30 minutes of your billable time
+- No per-minute transcription fees or API charges
 - Generate complete notes in under 5 minutes
-- One-time purchase, unlimited use
+- Unlimited sessions, unlimited notes
 
 ### Professional Quality
 - State-of-the-art Whisper speech recognition
