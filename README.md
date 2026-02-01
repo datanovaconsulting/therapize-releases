@@ -30,7 +30,7 @@ Therapize runs entirely on your GPU for lightning-fast transcription and note ge
 | Platform | Download | GPU |
 |----------|----------|-----|
 | **Windows** | `.exe` installer | NVIDIA CUDA |
-| **macOS (Apple Silicon)** | `arm64.zip` | Metal (M-series) |
+| **macOS (Apple Silicon)** | `.dmg` installer | Metal (M-series) |
 | **Linux** | `.AppImage` | NVIDIA CUDA |
 
 > **Note:** macOS Intel is not supported. A GPU is required for transcription and note generation.
@@ -43,8 +43,8 @@ Therapize runs entirely on your GPU for lightning-fast transcription and note ge
 
 ### How to Open on macOS
 
-1. Download and extract the `.zip` file
-2. Move `Therapize.app` to your Applications folder
+1. Download and open the `.dmg` file
+2. Drag `Therapize.app` to your Applications folder
 3. **Control-click** (or right-click) on Therapize
 4. Select **"Open"** from the menu
 5. Click **"Open"** in the security dialog
