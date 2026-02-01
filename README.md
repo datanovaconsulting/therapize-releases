@@ -159,7 +159,7 @@ Print-ready PDF export with professional formatting.
 - HIPAA-friendly local processing
 
 ### Save Time & Money
-- **$49.99/month** — less than 1 hour of your billable time
+- **$49.99/month** — less than 1 hour of your billable time, saves you hours of writing
 - No per-minute transcription fees or API charges
 - Generate complete notes in under 5 minutes
 - Unlimited sessions, unlimited notes
