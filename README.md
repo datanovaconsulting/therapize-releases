@@ -165,7 +165,7 @@ Print-ready PDF export with professional formatting.
 
 ### Professional Quality
 - State-of-the-art Whisper speech recognition
-- Clinical-grade note generation with Mistral AI
+- Smart note generation with Mistral AI
 - Export-ready PDF formatting
 
 ---
