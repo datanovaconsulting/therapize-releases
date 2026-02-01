@@ -175,9 +175,9 @@ Print-ready PDF export with professional formatting.
 
 | Platform | Requirements |
 |----------|--------------|
-| **Windows** | Windows 10/11, NVIDIA GPU (GTX 1060+), 8GB RAM |
-| **macOS** | macOS 11+, Apple Silicon (M-series), 8GB RAM |
-| **Linux** | Ubuntu 20.04+, NVIDIA GPU with CUDA, 8GB RAM |
+| **Windows** | Windows 10/11, NVIDIA GPU (GTX 1060+), 16GB RAM |
+| **macOS** | macOS 11+, Apple Silicon (M-series), 16GB RAM |
+| **Linux** | Ubuntu 20.04+, NVIDIA GPU with CUDA, 16GB RAM |
 | **Disk Space** | ~8GB for AI models (SSD recommended) |
 
 **GPU is required.** Therapize uses your graphics card for fast, local AI processing.
