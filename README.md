@@ -10,17 +10,16 @@ Record therapy sessions, transcribe in seconds, and generate polished clinical n
 
 ---
 
-## GPU-Accelerated AI
+## GPU-Powered AI
 
-Therapize harnesses the full power of your hardware for lightning-fast transcription and note generation:
+Therapize runs entirely on your GPU for lightning-fast transcription and note generation:
 
 | Platform | Acceleration | Performance |
 |----------|--------------|-------------|
 | **Mac (Apple Silicon)** | Metal GPU | Transcribe 1-hour sessions in ~2 minutes |
-| **Windows/Linux (NVIDIA)** | CUDA GPU | Transcribe 1-hour sessions in ~90 seconds |
-| **Any Platform** | CPU Fallback | Still works without a GPU (slower) |
+| **Windows/Linux** | NVIDIA CUDA | Transcribe 1-hour sessions in ~90 seconds |
 
-Your GPU does the heavy lifting — no cloud APIs, no per-minute charges, no waiting. Just fast, private, local AI.
+**GPU Required.** Your graphics card does the heavy lifting — no cloud APIs, no per-minute charges, no waiting. Just fast, private, local AI.
 
 ---
 
@@ -28,12 +27,13 @@ Your GPU does the heavy lifting — no cloud APIs, no per-minute charges, no wai
 
 **[→ Download Latest Release](https://github.com/datanovaconsulting/therapize-releases/releases/latest)**
 
-| Platform | Download | GPU Support |
-|----------|----------|-------------|
+| Platform | Download | GPU |
+|----------|----------|-----|
 | **Windows** | `.exe` installer | NVIDIA CUDA |
-| **macOS (Apple Silicon)** | `arm64.zip` | Metal (M1/M2/M3) |
-| **macOS (Intel)** | `x64.zip` | CPU only |
+| **macOS (Apple Silicon)** | `arm64.zip` | Metal (M-series) |
 | **Linux** | `.AppImage` | NVIDIA CUDA |
+
+> **Note:** macOS Intel is not supported. A GPU is required for transcription and note generation.
 
 ---
 
@@ -172,12 +172,14 @@ Print-ready PDF export with professional formatting.
 
 ## Requirements
 
-| Platform | Minimum | Recommended |
-|----------|---------|-------------|
-| **Windows** | Windows 10, 8GB RAM | NVIDIA GPU (GTX 1060+) |
-| **macOS** | macOS 11+, 8GB RAM | Apple Silicon (M1/M2/M3) |
-| **Linux** | Ubuntu 20.04+, 8GB RAM | NVIDIA GPU with CUDA |
-| **Disk Space** | 8GB for AI models | SSD recommended |
+| Platform | Requirements |
+|----------|--------------|
+| **Windows** | Windows 10/11, NVIDIA GPU (GTX 1060+), 8GB RAM |
+| **macOS** | macOS 11+, Apple Silicon (M-series), 8GB RAM |
+| **Linux** | Ubuntu 20.04+, NVIDIA GPU with CUDA, 8GB RAM |
+| **Disk Space** | ~8GB for AI models (SSD recommended) |
+
+**GPU is required.** Therapize uses your graphics card for fast, local AI processing.
 
 ---
 
